@@ -566,4 +566,8 @@ small {
         padding: 8px 107px;
 
     }
+
+    .editor {
+        padding: 10px;
+    }
 }
