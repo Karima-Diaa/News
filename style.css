@@ -563,11 +563,15 @@ small {
     }
 
     a.btn4 {
-        padding: 8px 107px;
+        padding: 9px 71px;
 
     }
 
     .editor {
         padding: 10px;
+    }
+
+    .heading1 {
+        font-size: 25px;
     }
 }
